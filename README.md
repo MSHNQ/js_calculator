@@ -3,7 +3,7 @@ A calculator created using HTML, CSS and JS
 
 ## Description
 A web-based calculator, capable of performing the following mathematical operations: sum, subtraction, multiplication and divison.
-This application was created using HTML, CSS and Javascript.*
+This application was created using HTML, CSS and Javascript.
 
 ## Getting Started
 
