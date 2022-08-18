@@ -1,5 +1,5 @@
-let display = document.getElementById('display'); //colocando os botões em uma única variável
-let buttons = Array.from(document.getElementsByClassName('button')); // variável → array
+let display = document.getElementById('display');
+let buttons = Array.from(document.getElementsByClassName('button'));
 
 buttons.map( button => {
     button.addEventListener('click', (e) => {
